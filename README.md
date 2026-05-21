@@ -39,6 +39,8 @@ Verifies the module is available
 Applies the selected ProgID to all supported image extensions
 Restarts Windows Explorer
 Immediately refreshes file associations
+
+
 Notes
 Some Windows policies or third-party applications may override file associations.
 A system restart may occasionally be required.

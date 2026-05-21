@@ -69,6 +69,7 @@
     #
     # This task creates a scheduled task that runs
     # the PowerShell script as the active logged-in user.
+    
 
     - name: Run script AS LOGGED-IN USER (CRITICAL FIX)
       ansible.windows.win_shell: |
